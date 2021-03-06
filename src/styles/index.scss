@@ -1,5 +1,21 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.counter div{
+    display: inline-block;
+    line-height: 110px;   
+    font-size:100px;
+   // background: bg-dark;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.home div{
+   // text-align: center;
+     margin-top: 10px;
+    background: black;  
+   
+}
 /* 
 
     You can write your own styles here...
